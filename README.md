@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Vitor Lemos 
 
 
-- 🔭 Atualmente estou trabalhando com Front-end e HTML5 ,CSS3, Android studio(Java)
+- 🔭 Atualmente estou trabalhando com Front-end e HTML5 ,CSS3, JavaScript)
 - 🌱 Estou aprendendo ReactJS and React Native
 
 
