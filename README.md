@@ -1,8 +1,8 @@
 ### Olá! Eu sou o João Vitor Lemos 
 
 
-- 🔭 Atualmente estou trabalhando back-end python na Fiscal Cripto)
-- 🌱 Estou aprendendo ReactJS and React Native
+- 🔭 Atualmente estou trabalhando back-end NodeJs na Fiscal Cripto)
+- 🌱 Estou aprendendo NodeJs/JavaScript
 
 
  <div>
